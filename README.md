@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Almeida013/Almeida013/main/kaike_banner.png" alt="Kaike Almeida Banner">
-</p>
 
-<div align="center">
 
 # Kaike Almeida
 ### Construtor de Segurança em Nuvem | Entusiasta de DevSecOps
 
 </div>
 
-Acredito que a segurança não deve ser um portão que bloqueia, mas sim trilhos que guiam a inovação de forma segura. Minha missão é construir infraestruturas na nuvem onde a proteção é uma cultura automatizada, não um processo manual. Transformo vulnerabilidades teóricas, como as que causaram o vazamento da Capital One, em aprendizado prático, criando pipelines que previnem o incidente antes que ele aconteça.
-
+Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo.
+Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
 ---
 
 <p align="center">
@@ -29,9 +25,13 @@ Acredito que a segurança não deve ser um portão que bloqueia, mas sim trilhos
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/> </a>
 </p>
-
 ---
 
 ### 💡 Meus Projetos de Destaque
