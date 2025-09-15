@@ -1,17 +1,13 @@
 <div align="center">
 
 # Kaike Almeida
-### Construtor de Segurança em Nuvem | Entusiasta de DevSecOps
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Construtor+de+Segurança+em+Nuvem;Entusiasta+de+DevSecOps" alt="Typing SVG" /></a>
 
 </div>
 
-</div>
+Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo. Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
 
-Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo.
-<br><br>
-Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final.
-<br><br>
-Por isso, estudo falhas reais, como o vazamento da Capital One, e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaikealmeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,6 +32,7 @@ Por isso, estudo falhas reais, como o vazamento da Capital One, e as transformo 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/> </a>
 </p>
+
 ---
 
 ### 💡 Meus Projetos de Destaque
@@ -47,4 +44,12 @@ Por isso, estudo falhas reais, como o vazamento da Capital One, e as transformo 
   <a href="https://github.com/Almeida013/Projeto-AWS-Deteccao-e-Alertas">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=Projeto-AWS-Deteccao-e-Alertas&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
   </a>
+</p>
+
+---
+
+### 🐍 Minha Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Almeida013/Almeida013/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
