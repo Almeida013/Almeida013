@@ -6,8 +6,10 @@
 </div>
 
 Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo.
-Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
----
+<br><br>
+Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final.
+<br><br>
+Por isso, estudo falhas reais, como o vazamento da Capital One, e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaikealmeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
