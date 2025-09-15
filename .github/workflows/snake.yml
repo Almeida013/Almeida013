@@ -7,6 +7,10 @@ on:
 
 jobs:
   generate:
+    # ADICIONADO: Bloco de permissões para permitir que a Action escreva no repositório.
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake animation
