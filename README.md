@@ -44,11 +44,3 @@ Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos qu
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=Projeto-AWS-Deteccao-e-Alertas&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
   </a>
 </p>
-
----
-
-### 🐍 Minha Atividade no GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Almeida013/Almeida013/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
