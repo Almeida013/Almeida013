@@ -24,11 +24,14 @@ Estudante de Cibersegurança com forte viés prático e experiência na constru�
 </p>
 
 ---
-### 🏆 Meus Troféus no GitHub
+### 🚀 Meus Principais Projetos
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Almeida013&theme=tokyonight&no-frame=true&column=7" />
+  <a href="https://github.com/Almeida013/caso-capital-one">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=caso-capital-one&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+  </a>
+  <a href="https://github.com/Almeida013/Projeto-AWS-Deteccao-e-Alertas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=Projeto-AWS-Deteccao-e-Alertas&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
   </a>
 </p>
 
