@@ -24,18 +24,11 @@ Estudante de Cibersegurança com forte viés prático e experiência na constru�
 </p>
 
 ---
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <a href="https://github.com/Almeida013">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Almeida013&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
+### 🏆 Meus Troféus no GitHub
 
 <p align="center">
-  <a href="https://github.com/Almeida013">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeida013&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Almeida013&theme=tokyonight&no-frame=true&column=7" />
   </a>
 </p>
 
