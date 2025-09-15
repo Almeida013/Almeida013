@@ -4,7 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Construtor+de+Segurança+em+Nuvem;Entusiasta+de+DevSecOps" alt="Typing SVG" /></a>
 </div>
 
-Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo. Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
+Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo. 
+Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
 
 ---
 
