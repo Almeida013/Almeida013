@@ -37,9 +37,9 @@ Minha missão é criar ambientes em nuvem onde a proteção é uma cultura autom
 
 <p align="center">
   <a href="https://github.com/Almeida013/caso-capital-one">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=caso-capital-one&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=caso-capital-one&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&token=PAT_1" />
   </a>
   <a href="https://github.com/Almeida013/Projeto-AWS-Deteccao-e-Alertas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=Projeto-AWS-Deteccao-e-Alertas&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida013&repo=Projeto-AWS-Deteccao-e-Alertas&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&token=PAT_1" />
   </a>
 </p>
