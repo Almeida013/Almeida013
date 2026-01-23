@@ -8,7 +8,7 @@ Não escrevo código apenas para "funcionar". Construo arquiteturas digitais foc
 Minha filosofia de engenharia mudou quando sofri um ciberataque no meu primeiro e-commerce. Ali, entendi que **Inovação sem Segurança é prejuízo, e Segurança sem Negócio é custo.**
 
 Hoje, atuo na intersecção entre **Dados, IA e Cloud Security**:
-* 🔭 **Building in Public:** Founder do **[Analizify]([analizify.com](https://analizify.com/))**, um SaaS de inteligência de feedback que usa IA Vertical para reduzir Churn.
+* 🔭 **Building in Public:** Founder do **[Analizify](https://analizify.com/)**, um SaaS de inteligência de feedback que usa IA Vertical para reduzir Churn.
 * 🛡️ **Projetos Recentes:** Desenvolvi o *Revenue Guardian*, um sistema em Python que audita Supply Chain e previne fraudes de identidade em tempo real.
 * 🧠 **Foco Técnico:** Automação de Infraestrutura (Terraform), Análise de Dados Financeiros (Pandas) e Defesa Cibernética Automatizada (DevSecOps).
 
