@@ -1,11 +1,16 @@
 <div align="center">
 
 # Kaike Almeida
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Construtor+de+Segurança+em+Nuvem;Entusiasta+de+DevSecOps" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cloud+Solutions+Architect;Revenue+Engineering+%26+Security;Building+Analizify+(SaaS);Python+%7C+AWS+%7C+DevSecOps" alt="Typing SVG" /></a></div>
 
-Acredito que a segurança não é um portão que bloqueia, mas sim os trilhos que guiam a inovação no caminho certo. 
-Minha missão é criar ambientes em nuvem onde a proteção é uma cultura automatizada e integrada ao desenvolvimento, não um processo manual. Para mim, a melhor solução de segurança é aquela que protege tanto a empresa quanto o usuário final. Por isso, estudo falhas reais — como o vazamento da Capital One — e as transformo em pipelines preventivas que eliminam riscos antes mesmo do deploy.
+Não escrevo código apenas para "funcionar". Construo arquiteturas digitais focadas em dois pilares: **Gerar Receita (Revenue Ops)** e **Blindar o Lucro (Security by Design)**.
+
+Minha filosofia de engenharia mudou quando sofri um ciberataque no meu primeiro e-commerce. Ali, entendi que **Inovação sem Segurança é prejuízo, e Segurança sem Negócio é custo.**
+
+Hoje, atuo na intersecção entre **Dados, IA e Cloud Security**:
+* 🔭 **Building in Public:** Founder do **[Analizify](analizify.com)**, um SaaS de inteligência de feedback que usa IA Vertical para reduzir Churn.
+* 🛡️ **Projetos Recentes:** Desenvolvi o *Revenue Guardian*, um sistema em Python que audita Supply Chain e previne fraudes de identidade em tempo real.
+* 🧠 **Foco Técnico:** Automação de Infraestrutura (Terraform), Análise de Dados Financeiros (Pandas) e Defesa Cibernética Automatizada (DevSecOps).
 
 ---
 
